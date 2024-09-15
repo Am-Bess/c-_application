@@ -25,7 +25,7 @@ namespace hw1
 
         public string MemberInfo()
         {
-            return $"=> {LastName} {Name} {Surname}\t (Пол {Gender}|Возраст {Age})";
+            return $"=> {LastName} {Name} {Surname}\t (Пол {Gender}|Возраст {Age}) ";
         }
     }
 }
