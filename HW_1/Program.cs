@@ -77,7 +77,7 @@ namespace hw1
             var GrandParents = Son.GetGrandParents();
             var Parents = Son.GetParents();
 
-            Console.Write("Всем привет! давайте знакомиться, я\n" + Son.MemberInfo() + "\n");
+            Console.Write("Всем привет! давайте знакомиться, Я\n" + Son.MemberInfo() + "\n");
 
             Console.WriteLine("\nМоими родителями являются\n");
 
